@@ -5,7 +5,7 @@ const Services = () => {
     return (
         <div>
             <div className="w-[1064px] h-[414px] px-[188px] justify-start items-center gap-[108px] inline-flex lg:w-[896px] lg:h-[346px] md:w-[688px] md:h-[275px]">
-                <img src={Tab} alt="Tab image" className="w-[414px] h-[414px] lg:w-[346px] lg:h-[346px] md:" />
+                <img src={Tab} alt="Tab" className="w-[414px] h-[414px] lg:w-[346px] lg:h-[346px] md:" />
                     <div className="w-[542px] flex-col justify-start items-start gap-5 inline-flex lg:grow lg:shrink lg:basis-0 lg:flex-col">
                         <div className="flex flex-col items-start justify-start gap-3">
                             <div className="w-[507px] text-violet-700 text-[27px] font-semibold font-['Poppins'] leading-[33px] tracking-wide">Web & Mobile App Development</div>
