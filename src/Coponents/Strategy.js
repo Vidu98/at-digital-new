@@ -9,11 +9,11 @@ const Strategy = () => {
                 <div className="w-[507px] text-violet-700 text-[27px] font-semibold font-['Poppins'] leading-[33px] tracking-wide">Digital Strategy Consulting</div>
             </div>
             <div className="self-stretch text-black text-base font-normal font-['Inter']">Your digital strategy should complement the overall marketing strategy of the company. In online marketing, each component will never work in isolation and every business needs a different mix. We provide a clear concept and strategic overview to find the most efficient model for your business.</div>
-            <button className="px-5 py-3 bg-orange-400 rounded justify-start items-start gap-2 inline-flex">
+            <button className="inline-flex items-start justify-start gap-2 px-5 py-3 bg-orange-400 rounded">
                 <div className="text-white text-sm font-bold font-['Inter'] uppercase leading-[14px]">LEARN MORE</div>
             </button>
         </div>
-        <img className="w-[414px] h-[416px] lg:w-[346px] lg:h-[348px] md:w-[275px] md:h-[276px]" src={imgage_1} />
+        <img alt-text="image_1" className="w-[414px] h-[416px] lg:w-[346px] lg:h-[348px] md:w-[275px] md:h-[276px]" src={imgage_1} />
     </div>
   );
 }
