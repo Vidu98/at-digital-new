@@ -13,7 +13,7 @@ const Strategy = () => {
                 <div className="text-white text-sm font-bold font-['Inter'] uppercase leading-[14px]">LEARN MORE</div>
             </button>
         </div>
-        <img alt-text="image_1" className="w-[414px] h-[416px] lg:w-[346px] lg:h-[348px] md:w-[275px] md:h-[276px]" src={imgage_1} />
+        <img alt="image_1" className="w-[414px] h-[416px] lg:w-[346px] lg:h-[348px] md:w-[275px] md:h-[276px]" src={imgage_1} />
     </div>
   );
 }
